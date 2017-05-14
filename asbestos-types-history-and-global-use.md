@@ -47,7 +47,7 @@ This is apt because one of the commercially useful properties asbestos has been 
 ##
 - A **silicate** is a salt or ester of silicic acid. Most commonly this is a silica oxide anion which combines with a cation.
 - A **mineral** is a naturally occuring chemical compound. Silicate minerals make up over 90% of the earth's crust. 
-- **Asbestiform** refers to the form of a mineral in which ultra‐fine single crystal fibers (fibrils) occur in bundles that can be separated into increasingly finer fiber bundles.
+- **Asbestiform** refers to the form of a mineral in which ultra-fine single crystal fibers (fibrils) occur in bundles that can be separated into increasingly finer fiber bundles.
 
 ## Where does asbestos come from?
 
@@ -95,8 +95,8 @@ In practice, just knowing about **Chrysotile** (which is white), **Crocidolite**
 
 ##
 
-- Plutarch (AD 46 – AD 120), a Greek author, describes eternal flames in the Acropolis being created with asbestos lamp wicks, in his book On the Decline of the Oracles.
-- Pliny the Elder(AD 23 – AD 79), a Roman author, describes asbestos being used for table cloths, napkins, and burial shrouds, in his book Natural History. 
+- Plutarch (AD 46 - AD 120), a Greek author, describes eternal flames in the Acropolis being created with asbestos lamp wicks, in his book On the Decline of the Oracles.
+- Pliny the Elder(AD 23 - AD 79), a Roman author, describes asbestos being used for table cloths, napkins, and burial shrouds, in his book Natural History. 
 
 ## Modern use
 
@@ -127,7 +127,7 @@ Production and consumption continues in countries such as Brasil, Russia, India,
 
 ##
 
-Approximately 125 million people around the world work in environments in which they are exposed to asbestos, and at least 107 000 people die from occupational exposure to asbesotos (WHO).                          
+Approximately 125 million people around the world work in environments in which they are exposed to asbestos, and at least 107000 people die from occupational exposure to asbesotos (WHO).                          
 
 ## Suggested reading and self directed learning
 
